@@ -15,7 +15,7 @@ C:/Users/yuvra/Desktop/Learnings/unity/2d/My project
 -logFile
 Logs/AssetImportWorker2.log
 -srvPort
-64739
+52781
 Successfully changed project path to: C:/Users/yuvra/Desktop/Learnings/unity/2d/My project
 C:/Users/yuvra/Desktop/Learnings/unity/2d/My project
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -47,7 +47,7 @@ C:/Users/yuvra/Desktop/Learnings/unity/2d/My project
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Refreshing native plugins compatible for Editor in 93.96 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 135.75 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.14f1 (eee1884e7226)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.14f1/Editor/Data/Resources/UnitySubsystems
@@ -63,95 +63,95 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.14f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.14f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.14f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56700
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56616
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.14f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.14f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.14f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.012130 seconds.
+Registered in 0.011609 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 70.23 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 109.48 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.658 seconds
+- Completed reload, in  0.829 seconds
 Domain Reload Profiling:
-	ReloadAssembly (658ms)
-		BeginReloadAssembly (106ms)
+	ReloadAssembly (830ms)
+		BeginReloadAssembly (114ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (452ms)
-			LoadAssemblies (105ms)
+		EndReloadAssembly (582ms)
+			LoadAssemblies (110ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (94ms)
+			SetupTypeCache (135ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (35ms)
-			SetupLoadedEditorAssemblies (272ms)
+			RebuildScriptCaches (33ms)
+			SetupLoadedEditorAssemblies (347ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (65ms)
-				SetLoadedEditorAssemblies (2ms)
-				RefreshPlugins (70ms)
-				BeforeProcessingInitializeOnLoad (1ms)
-				ProcessInitializeOnLoadAttributes (94ms)
-				ProcessInitializeOnLoadMethodAttributes (40ms)
+				InitializePlatformSupportModulesInManaged (72ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (110ms)
+				BeforeProcessingInitializeOnLoad (2ms)
+				ProcessInitializeOnLoadAttributes (112ms)
+				ProcessInitializeOnLoadMethodAttributes (51ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.016220 seconds.
+Registered in 0.010725 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\yuvra\Desktop\Learnings\unity\2d\My project\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\yuvra\Desktop\Learnings\unity\2d\My project\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.59 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 108.08 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.065 seconds
+- Completed reload, in  1.781 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1065ms)
-		BeginReloadAssembly (224ms)
+	ReloadAssembly (1782ms)
+		BeginReloadAssembly (261ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
+			DisableScriptedObjects (7ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (133ms)
-		EndReloadAssembly (729ms)
-			LoadAssemblies (138ms)
+			CreateAndSetChildDomain (134ms)
+		EndReloadAssembly (1375ms)
+			LoadAssemblies (211ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (219ms)
+			SetupTypeCache (324ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (39ms)
-			SetupLoadedEditorAssemblies (313ms)
+			RebuildScriptCaches (62ms)
+			SetupLoadedEditorAssemblies (744ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (15ms)
+				InitializePlatformSupportModulesInManaged (19ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (75ms)
-				ProcessInitializeOnLoadAttributes (193ms)
-				ProcessInitializeOnLoadMethodAttributes (20ms)
-				AfterProcessingInitializeOnLoad (9ms)
+				RefreshPlugins (108ms)
+				BeforeProcessingInitializeOnLoad (113ms)
+				ProcessInitializeOnLoadAttributes (465ms)
+				ProcessInitializeOnLoadMethodAttributes (27ms)
+				AfterProcessingInitializeOnLoad (12ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (5ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 2.12 ms, found 3 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 2.31 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3351 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 27 unused Assets / (113.5 KB). Loaded Objects now: 3810.
-Memory consumption went from 115.4 MB to 115.3 MB.
-Total: 7.677800 ms (FindLiveObjects: 0.459300 ms CreateObjectMapping: 0.355900 ms MarkObjects: 6.693700 ms  DeleteObjects: 0.166000 ms)
+Unloading 3982 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 50 unused Assets / (1.1 MB). Loaded Objects now: 4457.
+Memory consumption went from 163.8 MB to 162.7 MB.
+Total: 5.638600 ms (FindLiveObjects: 0.841300 ms CreateObjectMapping: 0.172300 ms MarkObjects: 4.127900 ms  DeleteObjects: 0.495600 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -166,137 +166,67 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 1215045.314856 seconds.
-  path: Assets/gameassets/Fonts/Bronx-Bystreets - PERSONAL USE ONLY.ttf
-  artifactKey: Guid(095c9ca53f81e3f4891fee9a40e46b3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/gameassets/Fonts/Bronx-Bystreets - PERSONAL USE ONLY.ttf using Guid(095c9ca53f81e3f4891fee9a40e46b3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa754cfe121e9a3f9d0c4d51e936048f') in 0.138298 seconds 
+  Time since last request: 1237929.118950 seconds.
+  path: Assets/character/mutant/Mutant.fbx
+  artifactKey: Guid(dc250de6aafa4dd4c8987fc2ccc79ed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/character/mutant/Mutant.fbx using Guid(dc250de6aafa4dd4c8987fc2ccc79ed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f20f26ae9644c1436a095c22611a4770') in 0.283618 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 2.947640 seconds.
-  path: Assets/gameassets/Prefabs/DestroyEffect.prefab
-  artifactKey: Guid(762cce67708c5884e97d8f50d83152d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/gameassets/Prefabs/DestroyEffect.prefab using Guid(762cce67708c5884e97d8f50d83152d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dedaa4c8d12e098989afef5eef806775') in 0.051606 seconds 
+  Time since last request: 118.713820 seconds.
+  path: Assets/character/suitwoman/Ch11_nonPBR@Crouch Idle.fbx
+  artifactKey: Guid(ec78f75edeb3f684ba72127be9ef342e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/character/suitwoman/Ch11_nonPBR@Crouch Idle.fbx using Guid(ec78f75edeb3f684ba72127be9ef342e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ab124691bd86e4da612bdb54573ca2e') in 0.065887 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000041 seconds.
-  path: Assets/gameassets/Prefabs/WoodEffect.prefab
-  artifactKey: Guid(94889d8503f0a034983d11515c195bd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/gameassets/Prefabs/WoodEffect.prefab using Guid(94889d8503f0a034983d11515c195bd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef5db23cdb59be03268f5d8e13fc94ad') in 0.023396 seconds 
+  Time since last request: 18.180118 seconds.
+  path: Assets/character/suitwoman/Ch11_nonPBR@Mma Kick.fbx
+  artifactKey: Guid(72d1e5623a7494e4887b0d3f2f6a441c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/character/suitwoman/Ch11_nonPBR@Mma Kick.fbx using Guid(72d1e5623a7494e4887b0d3f2f6a441c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0fc11bcdd4db6bdc86ef83891e5c1c6') in 0.062223 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 3.290778 seconds.
-  path: Assets/gameassets/Prefabs/CineMachines/AimCineMachine.prefab
-  artifactKey: Guid(e8beb8e44822c554a875b07f0f548cfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/gameassets/Prefabs/CineMachines/AimCineMachine.prefab using Guid(e8beb8e44822c554a875b07f0f548cfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b1f2117d52012c77bc9729711d826d9') in 0.016235 seconds 
+  Time since last request: 0.000270 seconds.
+  path: Assets/character/suitwoman/Ch11_nonPBR@Jump.fbx
+  artifactKey: Guid(87b6e668bd2994645b77cd49be956ebc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/character/suitwoman/Ch11_nonPBR@Jump.fbx using Guid(87b6e668bd2994645b77cd49be956ebc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9546f9d01b2e13019b7bb2b7dbde42dd') in 0.125573 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 6.223752 seconds.
-  path: Assets/gameassets/Sprites/BloodEffect.psd
-  artifactKey: Guid(8897a8efdd2d72a49b14e4abb444a829) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/gameassets/Sprites/BloodEffect.psd using Guid(8897a8efdd2d72a49b14e4abb444a829) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '749c413ac3feb218827e89fc368fc724') in 0.030511 seconds 
+  Time since last request: 0.000082 seconds.
+  path: Assets/character/suitwoman/Ch11_nonPBR@Sneak Walk.fbx
+  artifactKey: Guid(08e736709ab2fb84a847ac0a6fe52640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/character/suitwoman/Ch11_nonPBR@Sneak Walk.fbx using Guid(08e736709ab2fb84a847ac0a6fe52640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a57d61f6104b3c64b2324333b936face') in 0.115718 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000035 seconds.
-  path: Assets/gameassets/Sprites/Rifle.png
-  artifactKey: Guid(1a14e944761f5d84ead490f22a50c612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/gameassets/Sprites/Rifle.png using Guid(1a14e944761f5d84ead490f22a50c612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1d195a78e500a3f97c5e4818738032a') in 0.038985 seconds 
+  Time since last request: 0.000084 seconds.
+  path: Assets/character/suitwoman/Ch11_nonPBR@Orc Idle.fbx
+  artifactKey: Guid(eb1d4a9192f768b47ab32235887befc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/character/suitwoman/Ch11_nonPBR@Orc Idle.fbx using Guid(eb1d4a9192f768b47ab32235887befc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbee549a0eaf346f81530b7a401952cd') in 0.074379 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000051 seconds.
-  path: Assets/gameassets/Sprites/MainMenu1.PNG
-  artifactKey: Guid(d47a680cc752ccb40aab815610f7cb2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/gameassets/Sprites/MainMenu1.PNG using Guid(d47a680cc752ccb40aab815610f7cb2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00e9dc8411018c1897b121b08119d69c') in 0.034977 seconds 
+  Time since last request: 52.170474 seconds.
+  path: Assets/character/suitwoman/Ch11_nonPBR@Crouch Idle.fbx
+  artifactKey: Guid(ec78f75edeb3f684ba72127be9ef342e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/character/suitwoman/Ch11_nonPBR@Crouch Idle.fbx using Guid(ec78f75edeb3f684ba72127be9ef342e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3035c460cbe01ce2f6bdf4db2f788740') in 0.213041 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 77.019520 seconds.
-  path: Assets/gameassets/Sprites/Player3.png
-  artifactKey: Guid(363bf1354124b3e42bba3d0b29a8400a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/gameassets/Sprites/Player3.png using Guid(363bf1354124b3e42bba3d0b29a8400a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af75c4f38163fdf3dca2990d803a579c') in 0.021220 seconds 
+  Time since last request: 0.000115 seconds.
+  path: Assets/character/suitwoman/Ch11_nonPBR@Mma Kick.fbx
+  artifactKey: Guid(72d1e5623a7494e4887b0d3f2f6a441c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/character/suitwoman/Ch11_nonPBR@Mma Kick.fbx using Guid(72d1e5623a7494e4887b0d3f2f6a441c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efd5726162930b298efc8b92ee9d10ac') in 0.158021 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 17.571065 seconds.
-  path: Assets/gameassets/Sprites/Health.png
-  artifactKey: Guid(4cb1ee1ef47389145a3308c7e488ce92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/gameassets/Sprites/Health.png using Guid(4cb1ee1ef47389145a3308c7e488ce92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5963dcaa1cfeef4dc70998a0fe20d310') in 0.012810 seconds 
+  Time since last request: 0.000037 seconds.
+  path: Assets/character/suitwoman/Ch11_nonPBR@Sneak Walk.fbx
+  artifactKey: Guid(08e736709ab2fb84a847ac0a6fe52640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/character/suitwoman/Ch11_nonPBR@Sneak Walk.fbx using Guid(08e736709ab2fb84a847ac0a6fe52640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f6b737224d912b0d6910a1da768eda3') in 0.149138 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000050 seconds.
-  path: Assets/gameassets/Sprites/Rifle.png
-  artifactKey: Guid(1a14e944761f5d84ead490f22a50c612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/gameassets/Sprites/Rifle.png using Guid(1a14e944761f5d84ead490f22a50c612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82703618b5703f83905fb60aeced03b3') in 0.029200 seconds 
+  Time since last request: 4.652175 seconds.
+  path: Assets/character/suitwoman/Ch11_nonPBR@Head Hit.fbx
+  artifactKey: Guid(78ffe8a1cfcb3964aa630c1cb8bfc5ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/character/suitwoman/Ch11_nonPBR@Head Hit.fbx using Guid(78ffe8a1cfcb3964aa630c1cb8bfc5ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dc9cb14b2877dac0e8becfa51d3023a') in 0.213366 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000072 seconds.
-  path: Assets/gameassets/Sprites/Player1.png
-  artifactKey: Guid(21d0ce540d93cb54886f8ef582ce7388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/gameassets/Sprites/Player1.png using Guid(21d0ce540d93cb54886f8ef582ce7388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bece05aed3ee0571fc1fc946cd5fd5fa') in 0.025473 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 15.777533 seconds.
-  path: Assets/gameassets/Sprites/MainMenu1.PNG
-  artifactKey: Guid(d47a680cc752ccb40aab815610f7cb2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/gameassets/Sprites/MainMenu1.PNG using Guid(d47a680cc752ccb40aab815610f7cb2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffba93f2f6b374b40d4b59fa2a41b2e3') in 0.073300 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 34.596844 seconds.
-  path: Assets/gameassets/Sprites/Crosshairs/crosshair002.png
-  artifactKey: Guid(a90290b93d701364087e9d48bf0ea37d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/gameassets/Sprites/Crosshairs/crosshair002.png using Guid(a90290b93d701364087e9d48bf0ea37d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '336d6682e8ebf3f411e76686837bfb1b') in 0.056691 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000077 seconds.
-  path: Assets/gameassets/Sprites/Crosshairs/crosshair021.png
-  artifactKey: Guid(ab3d5c380c27a0b44b4b801ff007120e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/gameassets/Sprites/Crosshairs/crosshair021.png using Guid(ab3d5c380c27a0b44b4b801ff007120e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db9c63604fcace86a3178caaa2de31ed') in 0.049087 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000070 seconds.
-  path: Assets/gameassets/Sprites/Crosshairs/crosshair008.png
-  artifactKey: Guid(dd05d4892feacb04fa41b15a0c976b57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/gameassets/Sprites/Crosshairs/crosshair008.png using Guid(dd05d4892feacb04fa41b15a0c976b57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60bb7fa8f725871d568000faa55d4ba5') in 0.053019 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000058 seconds.
-  path: Assets/gameassets/Sprites/Crosshairs/crosshair005.png
-  artifactKey: Guid(771bc6db47ec0694bb6d20fe699e0fef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/gameassets/Sprites/Crosshairs/crosshair005.png using Guid(771bc6db47ec0694bb6d20fe699e0fef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c28a8e4a356a34ec5aa5428054383ab') in 0.046136 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000126 seconds.
-  path: Assets/gameassets/Sprites/Crosshairs/crosshair025.png
-  artifactKey: Guid(ec2a7f9178a00f041a3164e31713e888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/gameassets/Sprites/Crosshairs/crosshair025.png using Guid(ec2a7f9178a00f041a3164e31713e888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '389e9422a40afe5e3d462b5873060efc') in 0.055928 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000138 seconds.
-  path: Assets/gameassets/Sprites/Crosshairs/crosshair012.png
-  artifactKey: Guid(ffd2c6d24e331e54e8448617adfa3889) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/gameassets/Sprites/Crosshairs/crosshair012.png using Guid(ffd2c6d24e331e54e8448617adfa3889) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f651c4ed0887f422bd8fed9511517333') in 0.052156 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000060 seconds.
-  path: Assets/gameassets/Sprites/Crosshairs/crosshair017.png
-  artifactKey: Guid(2974d642cc93dd24a9039a64e2927325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/gameassets/Sprites/Crosshairs/crosshair017.png using Guid(2974d642cc93dd24a9039a64e2927325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '637bf6d4db43571ffe912d41071d86e8') in 0.056166 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000039 seconds.
-  path: Assets/gameassets/Sprites/Crosshairs/crosshair006.png
-  artifactKey: Guid(e492f66162eae38439e19b9ad64e9c28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/gameassets/Sprites/Crosshairs/crosshair006.png using Guid(e492f66162eae38439e19b9ad64e9c28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36251396c89efa5b6e2f13b7d61fef4b') in 0.045564 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000039 seconds.
-  path: Assets/gameassets/Sprites/Crosshairs/crosshair011.png
-  artifactKey: Guid(898274c79573c7947979c3aa86fa6184) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/gameassets/Sprites/Crosshairs/crosshair011.png using Guid(898274c79573c7947979c3aa86fa6184) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad2880d3c6684c82987d6d768d4c8b57') in 0.042276 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000048 seconds.
-  path: Assets/gameassets/Sprites/Crosshairs/crosshair015.png
-  artifactKey: Guid(8f865fb1caa2cf34bbb3fab1f4681b1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/gameassets/Sprites/Crosshairs/crosshair015.png using Guid(8f865fb1caa2cf34bbb3fab1f4681b1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acb477ea7c41a64ca58d1a6f1d8b9aa3') in 0.047429 seconds 
-Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
-AssetImportWorker is now disconnected from the server
-Process exiting
-Exiting without the bug reporter. Application will terminate with return code 0
+  Time since last request: 0.000023 seconds.
+  path: Assets/character/suitwoman/Ch11_nonPBR@Sneak Walk.fbx
+  artifactKey: Guid(08e736709ab2fb84a847ac0a6fe52640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/character/suitwoman/Ch11_nonPBR@Sneak Walk.fbx using Guid(08e736709ab2fb84a847ac0a6fe52640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '020df0e84b8141781f05b8822f890bb3') in 0.131903 seconds 
